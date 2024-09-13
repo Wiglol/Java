@@ -1,0 +1,57 @@
+
+package Javau3;
+
+
+public class Main {
+
+ 
+    public static void main(String args[]) {
+        
+        
+        int halo = 8; 
+        
+        double helo = 9; 
+        
+        float hjelo = 11; 
+        
+        char hello = '1'; 
+        
+        int haloa = 2; 
+        
+        double halo2 = halo; 
+        
+        double hjelo2 = hjelo; 
+        
+        int haloa2 = (int)helo; 
+        
+        int halo3 = hello; 
+        
+        byte halo4 = (byte)halo; 
+        
+        System.out.println(halo2);
+        System.out.println(haloa2);
+        System.out.println(hjelo2);
+        System.out.println(halo3);
+        System.out.println(halo4);
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    }
+}

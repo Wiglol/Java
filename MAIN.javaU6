@@ -1,0 +1,24 @@
+
+public class MAIN {
+
+
+    public static void main(String args[]) {
+        
+       boolean on = true; 
+       
+       boolean off = false; 
+       
+        if (off == true) { 
+            System.out.println("Light Switch ON");
+            
+            
+        }else{ 
+            System.out.println("Light Switch OFF");  
+        
+        }
+        
+        
+        
+        
+    }
+}
